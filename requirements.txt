@@ -1,0 +1,4 @@
+aiohttp
+aiofiles
+mojang-api-3
+discord.py
